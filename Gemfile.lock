@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    byebug (10.0.2)
+    envyable (1.2.0)
+      thor (>= 0.18.1, < 2.0)
+    thor (0.20.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  byebug
+  envyable
+
+BUNDLED WITH
+   1.16.1
